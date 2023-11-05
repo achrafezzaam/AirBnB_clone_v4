@@ -1,4 +1,4 @@
-$(document).ready(() => {
+$('document').ready(() => {
 	const checklist = {};
 	let amen = [];
 	$("input:checkbox").change(function () {
